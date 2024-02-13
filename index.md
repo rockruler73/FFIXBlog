@@ -1,1 +1,0 @@
-This'll be the new home for FFIXBlog soon :)
