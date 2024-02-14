@@ -1,4 +1,4 @@
 #url: 'https://www.finalfantasyix.com'
 name: FFIXBlog
 description: 'A Final Fantasy IX Fansite'
-theme: jekyll-theme-minimal
+theme: minima
